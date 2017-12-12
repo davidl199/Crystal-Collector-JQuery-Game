@@ -1,0 +1,85 @@
+body {
+    background-image: url("../images/intersection.png");
+}
+
+img {
+    width: 75px;
+    height: 75px;
+    background: white;
+    padding: 5px;
+    margin-right: 5px;
+}
+
+.instructions {
+    background-color: rgb(245, 226, 178);
+    padding: 20 px;
+    color: rgb(91, 155, 91);
+    width: 400px;
+    height: 350px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+p {
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 5px;
+    padding-bottom: 0px;
+    margin: 3px 0px;
+}
+
+
+h4, h3, h1 {
+    padding: 10px 5px;
+    color: white;
+    margin: 3px 0px;
+}
+
+h2 {
+    padding: 10px 5px;
+    color: black;
+    margin: 3px 0px;
+}
+
+.heading {
+    background-color: rgb(248, 154, 14);
+    width: 300px;
+    text-align: center;
+}
+
+#crystals {
+    clear: left;
+}
+
+.random-number {
+    background-color: rgb(91, 155, 91);
+    width: 120px;
+    height: 115px;
+    float: left;
+    margin: 0px 10px 10px 0px; 
+}
+
+.scores {
+    background-color: turquoise;
+    width: 100px;
+    height: 115px;
+    float: left;
+    padding-left: 5px;
+}
+
+.totalScore {
+    background-color: rgb(1, 139, 126);
+    color: white;
+    width: 200px;
+}
+
+.currentScore {
+    background-color: rgb(1, 139, 126);
+    color: white;
+    width: 200px;
+    height: 50px;
+}
+
+
+
